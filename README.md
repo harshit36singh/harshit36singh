@@ -1,153 +1,68 @@
-# 👋 Hey there, I'm a Code Explorer!
-
-```
-┌─────────────────────────────────────────┐
-│  while(alive) {                         │
-│    eat();                               │
-│    sleep();                             │
-│    code();                              │
-│    repeat();                            │
-│  }                                      │
-└─────────────────────────────────────────┘
-```
-
-## 🗺️ My Journey Through the Tech Landscape
-
-I'm navigating through different territories of software development, collecting skills like a curious traveler:
-
-### 🎨 Flutter Territory
-```dart
-// Currently dwelling here...
-Status: Intermediate Explorer 🏕️
-Building cross-platform experiences
-Widgets are my canvas
-```
-**Progress Bar:** ▓▓▓▓▓▓▓▓░░░░░░░ 60%
-
-### ☕ Spring Boot Realm
+# 👋 Hey, I'm a Developer
 ```java
-// Just entered this kingdom...
-Status: Fresh Adventurer 🌱
-Learning the magic of enterprise backends
-@RestController {adventure = "just_beginning"}
-```
-**Progress Bar:** ▓▓▓░░░░░░░░░░░░ 20%
-
-### 🦀 Rust Frontier
-```rust
-// Battling the borrow checker...
-Status: Brave Beginner ⚔️
-fn learn() -> Result<Knowledge, Confusion> {
-    // Still figuring this out
-}
-```
-**Progress Bar:** ▓▓░░░░░░░░░░░░░ 15%
-
-### ⛓️ Solana Universe
-```rust
-// Just landed on this blockchain planet...
-Status: Cosmic Newbie 🚀
-Exploring Web3 from the very beginning
-Decoding the mysteries of on-chain programs
-```
-**Progress Bar:** ▓░░░░░░░░░░░░░░ 5%
-
----
-
-## 🎯 Current Quests
-
-```
-[█████░░░░░] Mastering Flutter state management
-[███░░░░░░░] Building REST APIs with Spring Boot
-[██░░░░░░░░] Understanding Rust ownership
-[█░░░░░░░░░] Creating first Solana smart contract
-```
-
-## 🛠️ My Toolbox
-
-<table>
-<tr>
-<td width="50%">
-
-**Mobile & Frontend**
-```
-📱 Flutter/Dart
-🎨 UI/UX Implementation
-📦 State Management
-🔌 API Integration
-```
-
-</td>
-<td width="50%">
-
-**Backend & Systems**
-```
-☕ Spring Boot (Learning)
-🦀 Rust (Exploring)
-⛓️ Solana (Baby Steps)
-🔧 RESTful Services
-```
-
-</td>
-</tr>
-</table>
-
-##  My Week in Code
-
-```text
-Flutter      ████████████░░░░░░░░   60%
-Spring Boot  ████░░░░░░░░░░░░░░░░   20%
-Rust         ███░░░░░░░░░░░░░░░░░   15%
-Solana       █░░░░░░░░░░░░░░░░░░░    5%
-```
-
-##  Learning Philosophy
-
-```javascript
-const myApproach = {
-  learn: "by doing",
-  fail: "fast and often",
-  iterate: "constantly",
-  share: "what I discover",
-  ask: "all the questions",
-};
-```
-
-##  Current Mindset
-
-> "I'm not a Flutter expert, not a Spring Boot guru, definitely not a Rust wizard, and absolutely not a Solana veteran. I'm just someone who loves building things and learning new ways to do it. One error message at a time."
-
----
-
-##   Fun Facts
-
--  I've made peace with bugs – they will bug me indefinitely.
--  Just an average indian trying to get a job.
--  Best debugging happens at 3 AM.
--  I am always frustrated.
-
-## 🤝 Let's Connect!
-
-```rust
-fn connect() -> Option<Collaboration> {
-    if you_like_learning && you_like_building {
-        Some(LetsChatAboutCode)
-    } else {
-        Some(LetsChatAnyway)
-    }
+while(caffeinated) {
+    code();
+    debug();
+    deploy();
+    repeat();
 }
 ```
 
+## What I Actually Do
+
+### Backend with Spring Boot
+This is my main thing. I build REST APIs, connect databases, handle authentication, and try to write clean code. Most of my day goes into:
+- Creating RESTful services
+- Working with JPA/Hibernate
+- Spring Security implementations
+- Microservices architecture (still learning this part)
+
+**Comfort level:** Pretty comfortable, but always learning something new
+
+### Flutter Development
+I build mobile apps when needed. Dart is nice to work with, and I can handle:
+- Building responsive UIs
+- State management (Provider, Riverpod)
+- API integration with backends
+- Navigation and routing
+
+**Comfort level:** Can build complete apps, still improving UI/UX skills
+
+### React for Web
+My web frontend toolkit. I use it for dashboards and admin panels mostly:
+- Functional components and hooks
+- API calls and state management
+- Basic routing with React Router
+- Some Redux when things get complicated
+
+**Comfort level:** Decent enough to get things done
+
+## Current Projects
+```
+Backend APIs        ████████████░░░░░░░░  65%
+Flutter Apps        ██████░░░░░░░░░░░░░░  35%
+React Dashboards    ████░░░░░░░░░░░░░░░░  20%
+```
+
+## How I Work
+
+I start with the backend, make sure the APIs work properly, then build the frontend around it. Sometimes things break. I debug. I fix. I deploy. Repeat.
+
+My usual stack:
+- Spring Boot + MySQL on the backend
+- Flutter for mobile
+- React for web frontends
+- Postman is always open
+
+## What I'm Learning
+
+- Better Spring Boot practices
+- Microservices patterns
+- Making Flutter apps smoother
+- React performance optimization
+- Docker and deployment stuff
+
 ---
 
-<div align="center">
 
-** Currently Building |  Forever Learning |  Always Exploring**
-
-```
-"The best way to remain sane is to explore."
-```
-
-*Made with random thoughts*
-
-</div>
+Open to collaborations, code reviews, or just chatting about tech.
