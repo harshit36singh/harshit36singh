@@ -52,7 +52,7 @@ My usual stack:
 - Spring Boot + MySQL on the backend
 - Flutter for mobile
 - React for web frontends
-- Postman is always open
+- ThunderClient is always open
 
 ## What I'm Learning
 
