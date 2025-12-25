@@ -38,6 +38,8 @@ React Dashboards    ████░░░░░░░░░░░░░░░░
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit36singh&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit36singh&theme=github-dark)
+
 ## How I Work
 I start with the backend, make sure the APIs work properly, then build the frontend around it. Sometimes things break. I debug. I fix. I deploy. Repeat.
 My usual stack:
