@@ -1,57 +1,61 @@
-# 👋 Hey, I'm a Developer
-```java
-while(caffeinated) {
-    code();
-    debug();
-    deploy();
-    repeat();
-}
-```
-## What I Actually Do
-### Backend with Spring Boot
-This is my main thing. I build REST APIs, connect databases, handle authentication, and try to write clean code. Most of my day goes into:
-- Creating RESTful services
-- Working with JPA/Hibernate
-- Spring Security implementations
-- Microservices architecture (still learning this part)
-**Comfort level:** Pretty comfortable, but always learning something new
-### Flutter Development
-I build mobile apps when needed. Dart is nice to work with, and I can handle:
-- Building responsive UIs
+# Hey, I'm Harshit 👋
+
+Backend developer who writes Spring Boot APIs and occasionally builds mobile apps.
+
+## What I Do
+
+### Spring Boot Development (Primary)
+This is where I spend most of my time. Building REST APIs, designing databases, implementing security, and writing tests.
+
+- RESTful services with Spring Boot
+- Spring Security & JWT authentication
+- JPA/Hibernate & database optimization
+- Redis for caching & rate limiting
+- Microservices architecture
+- Comprehensive testing (JUnit, Mockito, Testcontainers)
+- Docker containerization
+
+
+### Flutter Development (Secondary)
+Build mobile apps when needed. Dart is nice to work with.
+
+- Responsive UIs
 - State management (Provider, Riverpod)
-- API integration with backends
+- API integration
 - Navigation and routing
-**Comfort level:** Can build complete apps, still improving UI/UX skills
+
+
 ### React for Web
-My web frontend toolkit. I use it for dashboards and admin panels mostly:
+Use it for dashboards and admin panels:
+
 - Functional components and hooks
 - API calls and state management
-- Basic routing with React Router
-- Some Redux when things get complicated
-**Comfort level:** Decent enough to get things done
-## Current Projects
-```
-Backend APIs        ████████████░░░░░░░░  65%
-Flutter Apps        ██████░░░░░░░░░░░░░░  35%
-React Dashboards    ████░░░░░░░░░░░░░░░░  20%
-```
+- React Router
+- Some Redux when needed
+
+=
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit36singh&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit36singh&theme=github-dark)
 
-## How I Work
-I start with the backend, make sure the APIs work properly, then build the frontend around it. Sometimes things break. I debug. I fix. I deploy. Repeat.
-My usual stack:
-- Spring Boot + MySQL on the backend
-- Flutter for mobile
-- React for web frontends
-- ThunderClient is always open
+## Tech Stack
+
+**Backend:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL, PostgreSQL, Redis  
+**Mobile:** Flutter, Dart  
+**Web:** React, Redux  
+**DevOps:** Docker, Docker Compose, Maven, Git  
+**Testing:** JUnit 5, Mockito, Testcontainers
+
 ## What I'm Learning
+
+- Advanced microservices patterns
 - Better Spring Boot practices
-- Microservices patterns
-- Making Flutter apps smoother
-- React performance optimization
-- Docker and deployment stuff
+- Flutter performance optimization
+- Docker & deployment strategies
+
 ---
+
 Open to collaborations, code reviews, or just chatting about tech.
+
+📫 [Portfolio](https://harshit36singh.github.io/Portfolio/) • [LinkedIn](https://linkedin.com/in/harshit-singh-h36) • [LeetCode](https://leetcode.com/u/harshits36/)
