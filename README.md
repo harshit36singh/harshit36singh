@@ -1,6 +1,6 @@
 # Hey, I'm Harshit Singh 👋
 
-I'm a backend developer who works with Spring Boot and Flutter. I build APIs and mobile apps.
+I'm a App/Backend developer who works with Spring Boot and Flutter. I build APIs and mobile apps.
 
 📫 [Portfolio](http://singh-harshit.vercel.app/) • [LinkedIn](https://linkedin.com/in/harshit-singh-h36)
 
