@@ -4,3 +4,4 @@ I'm a App/Backend developer who works with Spring Boot and Flutter. I build APIs
 
 📫 [Portfolio](http://singh-harshit.vercel.app/) • [LinkedIn](https://linkedin.com/in/harshit-singh-h36)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit36singh&theme=tokyonight&hide_border=true)
