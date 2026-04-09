@@ -1,4 +1,4 @@
-# Hey, I'm Harshit Singh  <img src="assets/Spider Web.webp" width="32"/>
+# Hi, I'm Harshit Singh  <img src="assets/Spider Web.webp" width="32"/>
 
 I'm a App/Backend developer who works with Spring Boot and Flutter. I build APIs and mobile apps.
 
